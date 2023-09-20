@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import * as userService from '../utilities/users-service';
 
-import logo from '../images/gatoLocal.jpg';
+import logo from '../images/GatoLocal3.jpg';
 import './NavBar.css';
 
 function NavBar({ user, setUser }) {

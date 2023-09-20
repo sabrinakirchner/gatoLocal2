@@ -1,7 +1,7 @@
 import React from 'react';
 import SignUpForm from '../components/SignUpForm/SignUpForm';
 import LogInForm from '../components/LogInForma/LogInForm';
-import logo from '../images/gatoLocal.jpg'
+import logo from '../images/GatoLocal3.jpg'
 
 
 export default function AuthPage({ setUser }) {

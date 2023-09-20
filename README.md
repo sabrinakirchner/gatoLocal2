@@ -1,3 +1,82 @@
+# MongoDB, Expressjs, React/Redux, Nodejs 
+
+This project is a fullstack implementation with front and backend.
+
+# Structure 
+
+config >checkTokern.js
+       >database.js
+       >ensureLoggedIn.js
+
+controllers>api>users.js
+
+models>user.js
+
+route>api>orders.js
+         >users.js
+
+src> components >logInform>LogInForm.jsx
+                >SingUpForm>SingUpForm.jsx
+                >UserLogOut>UserLogOut.jsx
+                >serchBar>SearchBar.jsx
+   >NavBar.jsx
+   >NavBar.css
+
+   >pages >AuthPage.jsx
+          >NewOrderPage.jsx
+          >OrderHistoryPage.jsx
+
+   >utilities>items-api.js
+             >orders-api.js
+             >petfinder-api.js
+             >send-request.js
+             >users-api.js
+             >users-service.js
+   >App.js
+
+
+.env
+.gitignore
+crud-helper.js
+server.js 
+
+
+# Some of the Dependencies used 
+
+- npm 
+- bcrypt-node-js
+- dotenv
+- morgan
+- axios 
+- jwt-simple 
+- mongoose 
+- react-dom 
+
+
+# API
+
+- unsplash
+- https://unsplash.com/
+
+- Mongo
+- https://www.mongodb.com/atlas/database 
+
+
+
+# Credis 
+- for the logo 
+- https://www.vecteezy.com/vector-art/20329376-cat-head-kitten-symbol-gaming-cat-logo-elegant-element-for-brand-abstract-icon-symbols
+
+
+- color palet 
+- https://colorhunt.co/palette/faf3f0d4e2d4ffcaccdbc4f0 
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
