@@ -1,0 +1,68 @@
+/* NavBar.css */
+.navbar {
+  background-color: #FFCACC;
+  color: #c9abab;
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 8rem;
+}
+
+.logo {
+  width: 140px;
+  height: auto;
+  margin: 10px;
+  padding: 2px;
+  border-radius: 8rem;
+}
+
+
+.button1 {
+    background-color: #D4E2D4;
+    color: #140a0a;
+    margin: 0 10px; 
+    padding: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 8rem;
+    cursor: pointer;
+}
+
+.button2 {
+  background-color: #D4E2D4;
+  color: #140a0a;
+  margin: 0 10px; 
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 8rem;
+  cursor: pointer;
+}
+
+.navbar-buttons a {
+  color: #140a0a;
+  padding: 6px;
+  text-decoration: none;
+}
+
+.navbar-logout {
+  margin-left: auto;
+}
+
+.d-flex {
+  background-color: #D4E2D4;
+  color: #140a0a;
+  margin: 0 10px; 
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  border-radius: 8rem;
+  cursor: pointer;
+}
